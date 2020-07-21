@@ -1,0 +1,13 @@
+C:\Users\kevin\source\repos\TP2\TP2\obj\Debug\netcoreapp3.1\TP2.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\TP2\TP2\obj\Debug\netcoreapp3.1\TP2.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\TP2\TP2\obj\Debug\netcoreapp3.1\TP2.AssemblyInfo.cs
+C:\Users\kevin\source\repos\TP2\TP2\obj\Debug\netcoreapp3.1\TP2.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\TP2\TP2\bin\Debug\netcoreapp3.1\TP2.exe
+C:\Users\kevin\source\repos\TP2\TP2\bin\Debug\netcoreapp3.1\TP2.deps.json
+C:\Users\kevin\source\repos\TP2\TP2\bin\Debug\netcoreapp3.1\TP2.runtimeconfig.json
+C:\Users\kevin\source\repos\TP2\TP2\bin\Debug\netcoreapp3.1\TP2.runtimeconfig.dev.json
+C:\Users\kevin\source\repos\TP2\TP2\bin\Debug\netcoreapp3.1\TP2.dll
+C:\Users\kevin\source\repos\TP2\TP2\bin\Debug\netcoreapp3.1\TP2.pdb
+C:\Users\kevin\source\repos\TP2\TP2\obj\Debug\netcoreapp3.1\TP2.dll
+C:\Users\kevin\source\repos\TP2\TP2\obj\Debug\netcoreapp3.1\TP2.pdb
+C:\Users\kevin\source\repos\TP2\TP2\obj\Debug\netcoreapp3.1\TP2.genruntimeconfig.cache
